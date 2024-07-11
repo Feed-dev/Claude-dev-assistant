@@ -1,4 +1,4 @@
-# 🤖 Claude Engineer
+# 🤖 Claude Engineer build by https://github.com/Doriandarko
 
 Claude Engineer is an advanced interactive command-line interface (CLI) that harnesses the power of Anthropic's Claude-3.5-Sonnet model to assist with a wide range of software development tasks. This tool seamlessly combines the capabilities of a state-of-the-art large language model with practical file system operations, web search functionality, and intelligent code analysis.
 
@@ -34,11 +34,7 @@ Claude Engineer is an advanced interactive command-line interface (CLI) that har
    ```
 
 3. Set up your API keys:
-   - Add your Anthropic and Tavily API keys in the script:
-     ```python
-     client = Anthropic(api_key="YOUR_ANTHROPIC_API_KEY")
-     tavily = TavilyClient(api_key="YOUR_TAVILY_API_KEY")
-     ```
+   - Add your Anthropic and Tavily API keys in the .env
 
 ## 🚀 Usage
 
