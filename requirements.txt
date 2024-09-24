@@ -4,3 +4,7 @@ tavily-python
 Pillow
 rich
 aiohttp
+websockets
+prompt_toolkit
+pydub
+ollama
