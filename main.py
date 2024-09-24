@@ -33,7 +33,7 @@ import subprocess
 import shutil
 from typing import AsyncIterable
 
-# Configure logging
+# Configure log
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Load environment variables from .env file
